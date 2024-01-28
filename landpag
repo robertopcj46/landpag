@@ -1,0 +1,20 @@
+HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Landing Page</title>
+</head>
+<body>
+  <header>
+    <h1>Titulo da landing page</h1>
+    <p>Subtítulo</p>
+  </header>
+  <main>
+    <p>Corpo da landing page</p>
+  </main>
+  <footer>
+    <a href="#">Call to action</a>
+  </footer>
+</body>
+</html>
